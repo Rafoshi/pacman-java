@@ -1,6 +1,5 @@
 import model.PacMan;
 
-import java.util.Arrays;
 import javax.swing.JFrame;
 
 public class Main {
